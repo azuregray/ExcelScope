@@ -9,11 +9,11 @@
 
 > **Department of AI & ML - Sri Krishna Insititute of Technology - `6th SEMESTER 2021 Batch`**
 
-> **D A R S H A N &ensp; S &ensp; `PROJECT MANAGER & TEAM LEAD` >> [**`GITHUB`**](https://github.com/azuregray/) | [**`LINKEDIN`**](https://linkedin.com/in/arcticblue)**
+> **D A R S H A N &ensp; S &ensp; `TEAM LEAD & ASSOCIATE DEVLOPER` >> [**`GITHUB`**](https://github.com/azuregray/) | [**`LINKEDIN`**](https://linkedin.com/in/arcticblue)**
 
 > **V E N U &ensp; G O P A L &ensp; S &ensp; R &ensp; `PRIMARY DEVELOPER` >> [**`GITHUB`**](https://github.com/srvenu) | [**`LINKEDIN`**](https://www.linkedin.com/in/venu-s-raj)**
 
-> **D A R S H A N &ensp; S A D A S H I V A  &ensp; `INTERFACE DESIGNER & SECONDARY DEVELOPER` >> [**`GITHUB`**](https://github.com/darshansadashiva) | [**`LINKEDIN`**](http://linkedin.com/in/darshansadashiva)**
+> **D A R S H A N &ensp; S A D A S H I V A  &ensp; `INTERFACE DESIGNER & ASSOCIATE DEVELOPER` >> [**`GITHUB`**](https://github.com/darshansadashiva) | [**`LINKEDIN`**](http://linkedin.com/in/darshansadashiva)**
 
 ---
 ## **`INSTALLATION`**
