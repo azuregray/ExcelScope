@@ -1,15 +1,12 @@
-# **B O R I N G &emsp; T O O L S &emsp; D A T A &emsp; S E A R C H &emsp; E N G I N E**
+# **E X C E L &emsp; S C O P E**
 
-![KMTL Official Branding](https://raw.githubusercontent.com/azuregray/KMTL-BoringToolsDataSearchEngine/main/Assets/BrandLogo-KMTL.jpeg)
-## **`KENNAMETAL INC.`**
-
-#### `Description` &ensp; An algorithmically enhanced hard-coded search software for searching through internal database of achieved projects for guiding employees across Kennametal aiming efficient worktime.
-
+#### `DESCRIPTION` &ensp; A multi-parameter sequential search tool for filtering through an input Excel Datasheet.
+---
 > **Project Duration - `April - August 2024 (6 Months)`**
 
 > **Department of AI & ML - Sri Krishna Insititute of Technology - `6th SEMESTER 2021 Batch`**
 
-> **D A R S H A N &ensp; S &ensp; `TEAM LEAD & ASSOCIATE DEVLOPER` >> [**`GITHUB`**](https://github.com/azuregray/) | [**`LINKEDIN`**](https://linkedin.com/in/arcticblue)**
+> **D A R S H A N &ensp; S &ensp; `PROJECT ARCHITECT & ASSOCIATE DEVLOPER` >> [**`GITHUB`**](https://github.com/azuregray/) | [**`LINKEDIN`**](https://linkedin.com/in/arcticblue)**
 
 > **V E N U &ensp; G O P A L &ensp; S &ensp; R &ensp; `PRIMARY DEVELOPER` >> [**`GITHUB`**](https://github.com/srvenu) | [**`LINKEDIN`**](https://www.linkedin.com/in/venu-s-raj)**
 
@@ -18,9 +15,9 @@
 ---
 ## **`INSTALLATION`**
 - **How to use the App**
-> Step 01: Please use our [**`LATEST RELEASE PAGE`**](https://github.com/azuregray/KMTL-BoringToolsDataSearchEngine/releases/latest) and find **Kennametal.WorkToolsSearch.exe**
+> Step 01: Please use our [**`LATEST RELEASE PAGE`**](https://github.com/azuregray/ExcelScope/releases/latest) and find **ExcelScope.exe**
 
-> Step 02: Run **Kennametal WorkToolsSearch** in your Downloads folder.
+> Step 02: Run **ExcelScope.exe** in your Downloads folder.
 
 
 - **`THE PYTHON WAY` for geeks/debuggers**
@@ -39,6 +36,6 @@ python -m pip install -r requirements.txt; python ./main.py
 ---
 - **LINK TO `THE ORIGINAL REPOSITORY`**
 
-> **https://github.com/azuregray/KMTL-BoringToolsDataSearchEngine/**
+> **https://github.com/azuregray/ExcelScope/**
 
 ---
