@@ -1,6 +1,6 @@
 # **E X C E L &emsp; S C O P E**
 
-#### `DESCRIPTION` &ensp; A multi-parameter sequential search tool for filtering through an input Excel Datasheet.
+#### `DESCRIPTION` &ensp; A multi-parameter sequential search utility for filtering through an input Excel Datasheet.
 ---
 > **Project Duration - `April - August 2024 (6 Months)`**
 
