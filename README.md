@@ -1,16 +1,10 @@
 # **E X C E L &emsp; S C O P E**
 
 #### `DESCRIPTION` &ensp; A multi-parameter sequential search utility for filtering through an input Excel Datasheet.
----
+
 > **Project Duration - `April - August 2024 (6 Months)`**
 
-> **Department of AI & ML - Sri Krishna Insititute of Technology - `6th SEMESTER 2021 Batch`**
-
-> **D A R S H A N &ensp; S &ensp; `PROJECT ARCHITECT & ASSOCIATE DEVLOPER` >> [**`GITHUB`**](https://github.com/azuregray/) | [**`LINKEDIN`**](https://linkedin.com/in/arcticblue)**
-
-> **V E N U &ensp; G O P A L &ensp; S &ensp; R &ensp; `PRIMARY DEVELOPER` >> [**`GITHUB`**](https://github.com/srvenu) | [**`LINKEDIN`**](https://www.linkedin.com/in/venu-s-raj)**
-
-> **D A R S H A N &ensp; S A D A S H I V A  &ensp; `INTERFACE DESIGNER & ASSOCIATE DEVELOPER` >> [**`GITHUB`**](https://github.com/darshansadashiva) | [**`LINKEDIN`**](http://linkedin.com/in/darshansadashiva)**
+> **Department of AI & ML - Visvesvaraya Technological University - `6th SEMESTER 2021 Batch`**
 
 ---
 ## **`INSTALLATION`**
